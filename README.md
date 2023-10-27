@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <div align="center">
-  <img src="./assets/Stephane-Dev-Bannière3.png" alt="Stephane's Banner" width="350"/>
+  <img src="./assets/Stephane-Dev-Bannière3.png" alt="Stephane's Banner" width="450"/>
 </div>
 
 ---
