@@ -58,12 +58,12 @@
 <div align="center">
   <img src="./assets/HTML.png" alt="HTML5" width="40" height="40"/>
   <img src="./assets/CSS.png" alt="CSS3" width="40" height="40"/>
-  <img src="./assets/JAVASCRIPT.png" alt="JavaScript" width="40" height="40"/>
+  <img src="./assets/JS.png" alt="JavaScript" width="40" height="40"/>
   <img src="./assets/REACT.png" alt="React" width="40" height="40"/>
   <img src="./assets/NODEJS.png" alt="NodeJS" width="40" height="40"/>
   <img src="./assets/VUEJS.png" alt="VueJS" width="40" height="40"/>
   <img src="./assets/SQL.png" alt="SQL" width="40" height="40"/>
-  <img src="./assets/MONGODB.png" alt="MongoDB" height="40"/>
+  <img src="./assets/MONGODB2.png" alt="MongoDB" width="40" height="40"/>
 </div>
 
 ---
