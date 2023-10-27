@@ -1,11 +1,31 @@
-![Stephane's Banner](./Stephane-Dev-Bannière.png)
+<!-- Bannière -->
+<div align="center">
+  <img src="./Stephane-Dev-Bannière.png" alt="Stephane's Banner" width="800"/>
+</div>
 
-# Bonjour 👋, je suis Stéphane
+---
 
-Développeur web passionné et créatif, j'ai un parcours riche allant du développement Front-End à la maîtrise de frameworks JavaScript modernes. 
-Je suis toujours en quête d'apprentissage et de nouvelles expériences pour offrir des expériences utilisateur exceptionnelles.
+<!-- Introduction -->
+<div align="center">
+  <h1>Bonjour 👋, je suis Stéphane</h1>
+  <p>Développeur web passionné et créatif, j'ai un parcours riche allant du développement Front-End à la maîtrise de frameworks JavaScript modernes.</p>
+  <p>Je suis toujours en quête d'apprentissage et de nouvelles expériences pour offrir des expériences utilisateur exceptionnelles.</p>
+</div>
 
-## En Bref
+---
+
+<!-- Stats GitHub -->
+<div align="center">
+  <a href="https://github.com/Stephane-OC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephane-OC&show_icons=true&theme=tokyonight" alt="Stéphane's GitHub stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-OC&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </a>
+</div>
+
+---
+
+<!-- Informations rapides -->
+<h2 align="left">En Bref</h2>
 
 - 🔭 Je travaille actuellement sur [Argent Bank](https://github.com/Stephane-OC/Argent-Bank)
 - 🌱 J'apprends : React, Redux, Redux Toolkit, Immer
@@ -13,7 +33,10 @@ Je suis toujours en quête d'apprentissage et de nouvelles expériences pour off
 - 📫 Comment me joindre: [Mon profil LinkedIn](https://www.linkedin.com/in/stephane-f-431b0b214/)
 - ⚡ Fun fact: J'ai créé des vidéos animées entièrement en web (HTML, CSS, JS) sans logiciel de montage professionnel !
 
-## Projets dont je suis fier
+---
+
+<!-- Projets dont je suis fier -->
+<h2 align="left">Projets dont je suis fier</h2>
 
 ### Vidéos d'anniversaire pour Cruella (2022) 
 
@@ -27,25 +50,32 @@ Je suis toujours en quête d'apprentissage et de nouvelles expériences pour off
 - [Messages](https://github.com/Stephane-OC/Cruella-BB-2023_Messages) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=X9Zs112UhKc&t=346s)
 - [Générique](https://github.com/Stephane-OC/Cruella-BB-2023_Generic) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=X9Zs112UhKc&t=984s)
 
-## Langages et Outils:
+---
 
-<p align="left">
-  <img src="./HTML.png" alt="HTML5" width="40" height="40"/>
-  <img src="./CSS.png" alt="CSS3" width="40" height="40"/>
-  <img src="./JAVASCRIPT.png" alt="JavaScript" width="40" height="40"/>
-  <img src="./REACT.png" alt="React" width="40" height="40"/>
-  <img src="./NODEJS.png" alt="NodeJS" width="40" height="40"/>
-  <img src="./VUEJS.png" alt="VueJS" width="40" height="40"/>
-  <img src="./SQL.png" alt="SQL" width="40" height="40"/>
-  <img src="./MONGODB.png" alt="MongoDB" height="40"/>
-</p>
+<!-- Langages et Outils -->
+<h2 align="left">Langages et Outils:</h2>
 
-## Mes hobbies
+<div align="center">
+  <img src="./assets/HTML.png" alt="HTML5" width="40" height="40"/>
+  <img src="./assets/CSS.png" alt="CSS3" width="40" height="40"/>
+  <img src="./assets/JAVASCRIPT.png" alt="JavaScript" width="40" height="40"/>
+  <img src="./assets/REACT.png" alt="React" width="40" height="40"/>
+  <img src="./assets/NODEJS.png" alt="NodeJS" width="40" height="40"/>
+  <img src="./assets/VUEJS.png" alt="VueJS" width="40" height="40"/>
+  <img src="./assets/SQL.png" alt="SQL" width="40" height="40"/>
+  <img src="./assets/MONGODB.png" alt="MongoDB" height="40"/>
+</div>
+
+---
+
+<!-- Hobbies -->
+<h2 align="left">Mes hobbies</h2>
 
 - 🚶‍♂️ La marche
 - 🎮 Jeux vidéos : Je suis un fan de "World Of Warcraft"
 
 ---
 
-N'hésitez pas à consulter mes [projets sur GitHub](https://github.com/Stephane-OC) pour plus de détails sur mon travail et ma progression en tant que développeur.
-
+<div align="center">
+  <p>N'hésitez pas à consulter mes <a href="https://github.com/Stephane-OC">projets sur GitHub</a> pour plus de détails sur mon travail et ma progression en tant que développeur.</p>
+</div>
