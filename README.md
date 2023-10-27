@@ -17,7 +17,6 @@
 <!-- Stats GitHub -->
 <div align="center">
   <a href="https://github.com/Stephane-OC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephane-OC&show_icons=true&theme=tokyonight" alt="Stéphane's GitHub stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-OC&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </a>
 </div>
@@ -38,13 +37,13 @@
 <!-- Projets dont je suis fier -->
 <h2 align="left">Projets dont je suis fier</h2>
 
-### Vidéos d'anniversaire pour Cruella (2022) 
+[### Vidéos d'anniversaire pour Cruella (2022)](https://youtu.be/yCvEt-aT77M)
 
 - [Intro](https://github.com/Stephane-OC/CruellaDk-Birthday-Intro) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=sJ8hM24kiMI)
 - [Transitions](https://github.com/Stephane-OC/CruellaDk-Birthday-Transitions) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=P0LOIDXslWk)
 - [Générique](https://github.com/Stephane-OC/CruellaDk-Birthday-Generic) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=jpUCKa0yNd0)
 
-### Vidéos d'anniversaire pour Cruella (2023) 
+[### Vidéos d'anniversaire pour Cruella (2023)](https://youtu.be/X9Zs112UhKc)
 
 - [Intro](https://github.com/Stephane-OC/Cruella-BB-2023_Intro) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=X9Zs112UhKc)
 - [Messages](https://github.com/Stephane-OC/Cruella-BB-2023_Messages) 🎥 [Voir la vidéo](https://www.youtube.com/watch?v=X9Zs112UhKc&t=346s)
