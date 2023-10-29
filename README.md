@@ -35,7 +35,7 @@
 ---
 
 <!-- Projets dont je suis fier -->
-<h2 align="left">Projets dont je suis fier</h2>
+<h2 align="left">Projets dont je suis le plus fier</h2>
 
 [Vidéos d'anniversaire pour Cruella (2022)](https://youtu.be/yCvEt-aT77M)
 
