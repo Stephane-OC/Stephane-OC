@@ -26,7 +26,7 @@
 <!-- Informations rapides -->
 <h2 align="left">En Bref</h2>
 
-- 🔭 Je travaille actuellement sur [Argent Bank](https://github.com/Stephane-OC/Argent-Bank)
+- 🔭 Je travaille actuellement sur [Wealth Health](https://github.com/Stephane-OC/Wealth-Health)
 - 🌱 J'apprends : React, Redux, Redux Toolkit, Immer
 - 🎓 Formation en cours : "Développeur d'application JavaScript React" (Diplôme Bac +4)
 - 📫 Comment me joindre: [Mon profil LinkedIn](https://www.linkedin.com/in/stephane-f-431b0b214/)
@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <p>N'hésitez pas à consulter mes <a href="https://github.com/Stephane-OC">projets sur GitHub</a> pour plus de détails sur mon travail et ma progression en tant que développeur.</p>
+  <p>N'hésitez pas à consulter mes <a href="https://github.com/Stephane-OC?tab=repositories">projets sur GitHub</a> pour plus de détails sur mon travail et ma progression en tant que développeur.</p>
 </div>
