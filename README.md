@@ -26,7 +26,7 @@
 <!-- Informations rapides -->
 <h2 align="left">En Bref</h2>
 
-- 🔭 Je travaille actuellement sur [Wealth Health](https://github.com/Stephane-OC/Wealth-Health)
+- 🔭 Je travaille actuellement sur [Ela Spark UI](https://github.com/Stephane-OC/ElaSpark-UI)
 - 🌱 J'apprends : React, Redux, Redux Toolkit, Immer
 - 🎓 Formation en cours : "Développeur d'application JavaScript React" (Diplôme Bac +4)
 - 📫 Comment me joindre: [Mon profil LinkedIn](https://www.linkedin.com/in/stephane-f-431b0b214/)
